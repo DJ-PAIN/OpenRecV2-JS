@@ -28,4 +28,4 @@ We welcome contributions from anyone who is interested in improving OpenRec-js! 
 
 # Credits
 Fork From:https://github.com/RealMCoded/Rec.js
-**Thanks stuartt**
+**Thanks stuartt<333**

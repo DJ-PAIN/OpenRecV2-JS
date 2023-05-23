@@ -1,0 +1,15 @@
+# All module files are not commited to keep size down.
+node_modules/
+package-lock.json
+yarn.lock
+
+# User generated config files.
+user-info/user.json
+config.json
+
+# Misc folders.
+rec_room/
+images/*
+!images/.gitkeep
+bin/
+.vscode/
